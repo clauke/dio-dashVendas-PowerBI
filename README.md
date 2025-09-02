@@ -1,11 +1,11 @@
-🚀 Desafio DIO - Analisando dados de um Dashboard de Vendas no Power BI
+# 🚀 Desafio DIO - Analisando dados de um Dashboard de Vendas no Power BI
 
 Este projeto refere-se ao Desafio da **[Digital Innovation One (DIO)](https://web.dio.me/home)**
 no módulo de *Fundamentos de BI*, que consiste em replicar páginas já construídas durante o curso e desenvolver uma terceira página com novos visuais, utilizando a base de dados disponibilizada.
 
 ---
 
-📜 Conteúdo
+# 📜 Conteúdo
 
 O relatório foi desenvolvido no Power BI Desktop a partir do sample dataset disponível no repositório da instrutora:
 🔗 julianazanelatto/power_bi_analyst
@@ -26,7 +26,7 @@ Página 3 (Distribuições) – Criada pelo aluno, contendo:
 
 Obs: também foram acrescidos cards e segmentações para compor o relatório.
 
-🎯 Objetivos do Desafio
+# 🎯 Objetivos do Desafio
 
 - Treinar a criação de visuais no Power BI
 
@@ -40,7 +40,7 @@ Obs: também foram acrescidos cards e segmentações para compor o relatório.
 
 ---
 
-🛠️ Ferramentas Utilizadas
+# 🛠️ Ferramentas Utilizadas
 
 Power BI Desktop
 
@@ -48,13 +48,13 @@ Dataset de exemplo disponibilizado no curso
 
 ---
 
-📊 Resultado
+# 📊 Resultado
 
 ![Dashboard Vendas](https://github.com/clauke/dio-dashVendas-Excel/blob/main/img/dash_preview.png)
 
 ---
 
-📌 Conclusão
+# 📌 Conclusão
 
 Este desafio faz parte da trilha de aprendizado Power BI Analyst da DIO, e foi fundamental para praticar:
 
