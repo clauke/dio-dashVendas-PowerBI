@@ -50,7 +50,7 @@ Dataset de exemplo disponibilizado no curso
 
 # 📊 Resultado
 
-![Dashboard Vendas](https://github.com/clauke/dio-dashVendas-Excel/blob/main/img/dash_preview.png)
+![Dashboard Vendas](img/dashVendas_preview.png)
 
 ---
 
