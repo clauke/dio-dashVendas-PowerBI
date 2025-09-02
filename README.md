@@ -56,7 +56,7 @@ Dataset de exemplo disponibilizado no curso
 
 # 📌 Conclusão
 
-Este desafio faz parte da trilha de aprendizado Power BI Analyst da DIO, e foi fundamental para praticar:
+Este desafio faz parte da trilha de aprendizado Fundamentos de BI da DIO, e foi fundamental para praticar:
 
 Construção de relatórios no Power BI
 
